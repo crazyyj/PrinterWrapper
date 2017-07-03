@@ -1,9 +1,8 @@
 package cn.newchar.printutil;
 
-import com.wiwide.printutil.client.PaperType_76_Client;
-import com.wiwide.printutil.client.PaperType_80_Client;
-import com.wiwide.printutil.client.Pos88vClient;
 
+import cn.newchar.printutil.client.PaperType_76_Client;
+import cn.newchar.printutil.client.PaperType_80_Client;
 import cn.newchar.printutil.client.Pos88vClient;
 
 /**
